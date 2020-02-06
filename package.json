@@ -1,0 +1,19 @@
+{
+  "name": "kabootarserver",
+  "version": "1.0.0",
+  "description": "Matching server for Kabootar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glowies/kabootarServer.git"
+  },
+  "author": "glowies",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Glowies/kabootarServer/issues"
+  },
+  "homepage": "https://github.com/Glowies/kabootarServer#readme"
+}
