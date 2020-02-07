@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Glowies/kabootarServer/issues"
   },
-  "homepage": "https://github.com/Glowies/kabootarServer#readme"
+  "homepage": "https://github.com/Glowies/kabootarServer#readme",
+  "dependencies": {
+    "firebase-admin": "^8.9.2"
+  }
 }
